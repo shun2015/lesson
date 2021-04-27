@@ -1,3 +1,4 @@
+# 入力された値の約数表示
 input = gets.to_i
 nums = []
 i = 1
